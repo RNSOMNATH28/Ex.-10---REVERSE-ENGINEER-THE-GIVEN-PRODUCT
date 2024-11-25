@@ -34,9 +34,10 @@
 
 ### Output:
 
+![WhatsApp Image 2024-11-25 at 10 28 24 AM](https://github.com/user-attachments/assets/5c464ca8-b021-4a97-b919-587432a711ab)
 
-### Name:
-### Register Number:
+### Name:R N Somnath
+### Register Number:24000580
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
