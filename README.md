@@ -33,10 +33,13 @@
 ## Input:
 
 ### Output:
+![Screenshot 2024-11-25 115254](https://github.com/user-attachments/assets/2e6303fb-a1ce-4845-8e1a-d9344e215f6a)
+
+![Screenshot 2024-11-25 115330](https://github.com/user-attachments/assets/a9d69d2a-8e04-4cd1-9bd3-be05c1291445)
 
 
-### Name:
-### Register Number:
+### Name:R N Somnath
+### Register Number:24000580
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
