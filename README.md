@@ -33,6 +33,7 @@
 ## Input:
 
 ### Output:
+![WhatsApp Image 2024-11-25 at 10 28 24 AM](https://github.com/user-attachments/assets/9a18f5b6-c58e-4d52-a965-d303aeaf3799)
 
 
 ### Name:
